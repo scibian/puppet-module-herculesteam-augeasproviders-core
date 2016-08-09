@@ -1,0 +1,23 @@
+Source: puppet-module-herculesteam-augeasproviders-core
+Section: admin
+Priority: optional
+Maintainer: Cecile Yoshikawa <cecile.yoshikawa@edf.fr>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.5
+Homepage: https://forge.puppet.com/herculesteam/augeasproviders_core
+
+Package: puppet-module-herculesteam-augeasproviders-core
+Architecture: all
+Depends: puppet-common,
+         puppet-module-puppetlabs-stdlib (>= 3.2.0),
+         ${misc:Depends}
+Description: Puppet module augeasproviders-core
+ Puppet lets you centrally manage every important aspect of your system
+ using a cross-platform specification language that manages all the
+ separate elements normally aggregated in different files, like users,
+ cron jobs, and hosts, along with obviously discrete elements like
+ packages, services, and files.
+ .
+ This is a puppet module that provides a library to create new types and
+ providers around config files, using the Augeas configuration library to
+ read and modify them.

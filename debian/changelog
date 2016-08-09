@@ -1,0 +1,5 @@
+puppet-module-herculesteam-augeasproviders-core (2.1.2-0calibre1~bpo8+1) calibre9; urgency=low
+
+  * Initial release
+
+ -- Cecile Yoshikawa <cecile.yoshikawa@edf.fr>  Tue, 09 Aug 2016 11:11:50 +0100
