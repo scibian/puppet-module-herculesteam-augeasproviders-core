@@ -1,10 +1,12 @@
 Source: puppet-module-herculesteam-augeasproviders-core
 Section: admin
 Priority: optional
-Maintainer: Cecile Yoshikawa <cecile.yoshikawa@edf.fr>
+Maintainer: Scibian Project <packaging@scibian.org>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.5
 Homepage: https://forge.puppet.com/herculesteam/augeasproviders_core
+Vcs-Git: https://github.com/scibian/puppet-module-herculesteam-augeasproviders-core.git
+Vcs-Browser: https://github.com/scibian/puppet-module-herculesteam-augeasproviders-core
 
 Package: puppet-module-herculesteam-augeasproviders-core
 Architecture: all
