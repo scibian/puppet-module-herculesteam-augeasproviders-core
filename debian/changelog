@@ -1,3 +1,9 @@
+puppet-module-herculesteam-augeasproviders-core (2.1.2-0sci8u2) scibian8; urgency=medium
+
+  * Add puppet4 | puppet-commun as depends to control file 
+
+ -- MHamed Bouaziz <mhamed-externe.bouaziz@edf.fr>  Fri, 08 Feb 2019 16:45:24 +0100
+
 puppet-module-herculesteam-augeasproviders-core (2.1.2-0sci8u1) scibian8; urgency=medium
 
   * Scibian8 rebuild. 
