@@ -1,3 +1,9 @@
+puppet-module-herculesteam-augeasproviders-core (2.1.2-0sci10u1) scibian10; urgency=medium
+
+  * scibian10 rebuild.
+
+ -- Ibrahim M-MAKA <ibrahim-externe.m-maka@edf.fr>  Mon, 15 Jul 2019 13:20:25 +0200
+
 puppet-module-herculesteam-augeasproviders-core (2.1.2-0sci9u2) scibian9; urgency=medium
 
   * Rebuild to fix checksum verification error due to gbp.conf option
