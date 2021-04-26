@@ -1,3 +1,21 @@
+puppet-module-herculesteam-augeasproviders-core (2.7.0-1sci9u1) scibian9; urgency=medium
+
+  * New upstream version 2.7.0
+
+ -- Kwame AMEDODJI <kwame-externe.amedodji@edf.fr>  Mon, 26 Apr 2021 21:20:25 +0200
+
+puppet-module-herculesteam-augeasproviders-core (2.1.2-0sci9u2) scibian9; urgency=medium
+
+  * Rebuild to fix checksum verification error due to gbp.conf option
+
+ -- MHamed Bouaziz <mhamed-externe.bouaziz@edf.fr>  Fri, 08 Feb 2019 17:26:35 +0100
+
+puppet-module-herculesteam-augeasproviders-core (2.1.2-0sci9u1) scibian9; urgency=medium
+
+  * scibian9 rebuild.
+
+ -- Ibrahim M-MAKA <ibrahim-externe.m-maka@edf.fr>  Wed, 11 Apr 2018 10:19:26 +0200
+
 puppet-module-herculesteam-augeasproviders-core (2.1.2-0sci8u3) scibian8; urgency=medium
 
   * New release version to fix build problem 
