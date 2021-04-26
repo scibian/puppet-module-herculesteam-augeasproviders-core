@@ -1,5 +1,47 @@
 # Changelog
 
+## 2.7.0
+
+- Lint with Rubocop (GH #23)
+- Raise Puppet::Error instead of using fail() (GH #24)
+- Migrate to PDK (GH #25)
+- Support stdlib 7.x (GH #26)
+
+## 2.6.0
+
+- Add array split_by option (GH #20)
+- Switch to xenial for Travis CI tests (GH #22)
+- Add Debian 10 and Red Hat 8 to the supported OS list (GH #21)
+
+## 2.5.0
+
+- Support puppetlabs/stdlib 6 in metadata.json
+
+## 2.4.0
+
+- Revert broken exists? implementation
+- Remove support for Puppet 4
+- Update supported OSes in metadata.json
+
+## 2.3.0
+
+- Support Puppet 6 (GH #11)
+- Update metadata.json to reflect supported Ubuntu versions
+
+## 2.1.5
+
+- Allow puppetlabs/stdlib 5.x (GH #9)
+
+## 2.1.4
+
+- Upped supported Puppet versions to include Puppet 5
+
+## 2.1.3
+
+- Test and list compatibility with Puppet 4 and latest OSes
+- Fix catalog building in spec helper under Puppet 4.6
+- Various fixes to test suite and gemset
+
 ## 2.1.2
 
 - Fix fixtures lib for RSpec 3
