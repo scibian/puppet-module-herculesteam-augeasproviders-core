@@ -10,7 +10,7 @@ Vcs-Browser: https://github.com/scibian/puppet-module-herculesteam-augeasprovide
 
 Package: puppet-module-herculesteam-augeasproviders-core
 Architecture: all
-Depends: puppet-common,
+Depends: puppet-common | puppet4,
          puppet-module-puppetlabs-stdlib (>= 3.2.0),
          ${misc:Depends}
 Description: Puppet module augeasproviders-core
