@@ -1,5 +1,16 @@
 # Changelog
 
+## 3.1.0
+
+- Allow stdlib 8.0.0 (GH #34)
+
+## 3.0.0
+
+- Remove empty Hiera data (GH #29)
+- PDK update & lint (GH #30)
+- Support Puppet 6 and 7, deprecate Puppet 5 (GH #32)
+- Update supported Ubuntu versions (GH #33)
+
 ## 2.7.0
 
 - Lint with Rubocop (GH #23)
