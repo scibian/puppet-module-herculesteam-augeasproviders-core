@@ -3,9 +3,11 @@
 [![Puppet Forge Endorsement](https://img.shields.io/puppetforge/e/herculesteam/augeasproviders_core.svg)](https://forge.puppetlabs.com/herculesteam/augeasproviders_core)
 [![Build Status](https://img.shields.io/travis/hercules-team/augeasproviders_core/master.svg)](https://travis-ci.org/hercules-team/augeasproviders_core)
 [![Coverage Status](https://img.shields.io/coveralls/hercules-team/augeasproviders_core.svg)](https://coveralls.io/r/hercules-team/augeasproviders_core)
-[![Gemnasium](https://img.shields.io/gemnasium/hercules-team/augeasproviders_core.svg)](https://gemnasium.com/hercules-team/augeasproviders_core)
+[![Sponsor](https://img.shields.io/badge/%E2%99%A5-Sponsor-hotpink.svg)](https://github.com/sponsors/raphink)
 
 # augeasproviders\_core: library for building alternative Augeas-based providers for Puppet
+
+## Module description
 
 This module provides a library for module authors to create new types and
 providers around config files, using the Augeas configuration library to read

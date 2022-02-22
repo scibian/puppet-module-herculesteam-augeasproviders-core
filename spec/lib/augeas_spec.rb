@@ -1,6 +1,6 @@
-module AugeasSpec
-  class Error < StandardError
-  end
+module AugeasSpec end
+
+class AugeasSpec::Error < StandardError
 end
 
 require 'augeas_spec/augparse'
@@ -13,6 +13,6 @@ RSpec.configure do |config|
   config.include AugeasSpec::Fixtures
 
   config.before :each do
-    Puppet::Util::Storage.stubs(:store)
+    allow(Puppet::Util::Storage).to receive(:store)
   end
 end
