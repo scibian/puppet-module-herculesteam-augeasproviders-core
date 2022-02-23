@@ -1,3 +1,14 @@
+puppet-module-herculesteam-augeasproviders-core (3.1.0-0sci11u1) scibian11; urgency=medium
+
+  [ Kwame AMEDODJI ]
+  * New upstream version 2.7.0
+
+  [ Nilce BOUSSAMBA ]
+  * New upstream version 3.1.0
+  * scibian11 rebuild.
+
+ -- Nilce BOUSSAMBA <nilce-externe.boussamba@edf.fr>  Tue, 22 Feb 2022 20:14:57 +0100
+
 puppet-module-herculesteam-augeasproviders-core (2.1.2-0sci10u1) scibian10; urgency=medium
 
   * scibian10 rebuild.
