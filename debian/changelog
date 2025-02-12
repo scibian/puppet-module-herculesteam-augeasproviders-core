@@ -1,3 +1,9 @@
+puppet-module-herculesteam-augeasproviders-core (3.1.0-0sci12u1) scibian12; urgency=medium
+
+  * scibian12 rebuild.
+
+ -- Rodrigue NOUMI <rodrigue-externe.noumi@edf.fr>  Tue, 21 Jan 2025 16:40:40 +0100
+
 puppet-module-herculesteam-augeasproviders-core (3.1.0-0sci11u1) scibian11; urgency=medium
 
   [ Kwame AMEDODJI ]
