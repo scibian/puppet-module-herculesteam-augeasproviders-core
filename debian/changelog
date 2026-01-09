@@ -1,3 +1,9 @@
+puppet-module-herculesteam-augeasproviders-core (4.1.0sci13u1) scibian13; urgency=medium
+
+  * New upstream version 4.1.0
+
+ -- Saran KABA <saran-externe.kaba@edf.fr>  Mon, 05 Jan 2026 08:39:45 +0100
+
 puppet-module-herculesteam-augeasproviders-core (3.1.0-0sci12u1) scibian12; urgency=medium
 
   * scibian12 rebuild.
